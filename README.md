@@ -57,12 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afraz496&show_icons=true&theme=tokyonight&hide_border=true" alt="Afraz's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afraz496&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Afraz496&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="./github-metrics.svg" alt="Afraz's GitHub metrics"/>
 </p>
 
 ---
